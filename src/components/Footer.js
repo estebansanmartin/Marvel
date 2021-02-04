@@ -8,7 +8,7 @@ function Footer() {
            <Paper variant="outlined" elevation={0} className="footer">
            {new Date().getFullYear()} Sviluppato per <Link color="primary" href="https://estebansanmartin.it" target="_blank" rel="noreferrer">Esteban San Martin </Link>
            <Button className="social" target="_blank" href="https://github.com/estebansanmartin/Marvel.git">
-            <GitHubIcon fontSize="medium" style={{color:'#7DBBE6'}} />
+            <GitHubIcon fontSize="medium" style={{color:'#444'}} />
            </Button>
            </Paper> 
         </div>

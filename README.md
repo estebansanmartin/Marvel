@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-![marvel app](https://i.ibb.co/02q2kXq/marvel.png)
+![marvel app](https://i.ibb.co/SQct4FN/Marvel-App-React-JS.png)
 
